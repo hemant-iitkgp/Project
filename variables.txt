@@ -1,0 +1,140 @@
+M1 [Ante Natal Care Services ANC]
+
+Dependent variables:
+Number of pregnant women received 3 ANC check ups during pregnancy
+Number of pregnant women given TT1 during current pregnancy
+Number of pregnant women given TT2 or Booster during current pregnancy
+Total number of pregnant women given 100 IFA tablets
+Number of Eclampsia cases managed during delivery
+Number of Pregnant women having severe anaemia (Hb<7) treated at institution
+---------------------------------------------------------------
+Control vriables:
+Total number of pregnant women Registered for ANC
+Of which Number registered within first trimester (within 12 weeks)
+Number of Pregnant women registered under JSY
+Number of new cases of Hypertension (BP>140/90) detected in Pregnant women at the institution
+Number of Pregnant women with anaemia i.e. Hb level<11 (tested cases)
+Number of pregnancy test kits used at SC level
+===============================================================
+M2 [Deliveries]
+
+Dependent variables:
+Number of mothers paid JSY incentive for deliveries conducted at home
+Out of 2.2, Number discharged under 48 hours of delivery
+Number of mothers paid JSY Incentive for deliveries conducted at Public Institutions
+Number of ASHAs paid JSY Incentive for deliveries conducted at Public Institutions
+Number of cases of deliveries conducted at Public Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)]
+---------------------------------------------------------------
+Control vriables:
+Number of deliveries conducted at Home and attended by trained SBA(i.e. Doctor or Nurse or ANM)
+Number of deliveries conducted at Home and attended by non trained SBA (i.e. trained TBA or Relatives etc.)
+Total number of deliveries conducted at Home and attended by trained or non-trained SBA (i.e. sum of 2.1.1.a and 2.1.1.b)
+Number of newborns visited within 24 hours of delivery for deliveries conducted at home
+Deliveries conducted at Public Institutions (Including C-Sections)
+===============================================================
+M4 [Pregnancy outcome & weight of new-born]
+
+Dependent variables:
+Total number of male and female live births (4.1.1.a and 4.1.1.b)
+Number of still births
+---------------------------------------------------------------
+Control vriables:
+Number of male live births
+Number of female live births
+Number of Abortions (spontaneous or induced)
+Number of Newborns weighed at birth
+Number of Newborns having weight less than 2.5 kg
+Number of Newborns breast fed within 1 hour of birth
+===============================================================
+M5 [Complicated pregnanices]
+
+Dependent variables:
+Number of cases of complicated pregnancies treated with IV antibiotics
+Number of cases of complicated pregnancies treated with IV Antihypertensive/Magsulph injection
+Number of cases of complicated pregnancies treated with IV Oxytocis
+---------------------------------------------------------------
+Control vriables:
+Number of cases of pregnant women with Obstetric Complications and attended at CHCs
+Number of cases of pregnant women with Obstetric Complications and attended at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 5.1.1 to 5.1.4)
+===============================================================
+M9 [Family Planning]
+
+Dependent variables:
+Number of cases of complications following male sterilization
+Number of cases of complications following female sterilization
+Number of failures following male sterilization
+Number of failures following female sterilization
+Number of deaths following male sterilization
+Number of deaths following female sterilization
+---------------------------------------------------------------
+Control vriables:
+Number of NSV (No Scalpel Vasectomy) or Conventional Vasectomy conducted at PHCs
+Number of NSV or Conventional Vasectomy conducted at CHCs
+Total Number of NSV or Conventional Vasectomy conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.1.1.a to 9.1.1.d)
+Number of Laparoscopic sterilizations conducted at PHCs
+Number of Laparoscopic sterilizations conducted at CHCs
+Total Number of Laparoscopic sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.2.1.a to 9.2.1.d)
+Number of Mini-lap sterilizations conducted at PHCs
+Number of Mini-lap sterilizations conducted at CHCs
+Total Number of Mini-lap sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.3.1.a to 9.3.1.d)
+Number of Post-Partum sterilizations conducted at PHCs
+Number of Post-Partum sterilizations conducted at CHCs
+Total Number of Post-Partum sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.4.1.a to 9.4.1.d)
+Number of IUCD Insertions conducted at SCs
+Number of IUCD Insertions conducted at PHCs
+Number of IUCD Insertions conducted at CHCs
+Total Number of IUCD Insertions conducted at Public facilities i.e. SC, PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.5.1.a to 9.5.1.e)
+Out of above total, Post Partum (within 48 hours of delivery) IUCD insertions
+Number of IUCD removals
+Number of Oral Pills cycles distributed
+Number of Condom pieces distributed
+===============================================================
+M10 [CHILD IMMUNIZATION]
+
+Dependent variables:
+Number of cases of Abscess reported following immunisation [Adverse Event Following Immunisation (AEFI)]
+Number of cases of Death reported following immunisation [Adverse Event Following Immunisation (AEFI)]
+Number of cases of other complications reported following immunisation [Adverse Event Following Immunisation (AEFI)]
+---------------------------------------------------------------
+Control vriables:
+Number of Infants (0 to 11 months old)received BCG immunisation
+Number of Infants (0 to 11 months old) received DPT1 immunisation
+Number of Infants (0 to 11 months old) received DPT2 immunisation
+Number of Infants (0 to 11 months old) received DPT3 immunisation
+Number of Infants (0 to 11 months old) received Pentavalent1 immunisation
+Number of Infants (0 to 11 months old) received Pentavalent2 immunisation
+Number of Infants (0 to 11 months old) received Pentavalent3 immunisation
+Number of Infants (0 to 11 months old) received OPV 0 (Birth Dose)
+Number of Infants (0 to 11 months old) received OPV1 (First Dose)
+Number of Infants (0 to 11 months old) received OPV2 (Second Dose)
+Number of Infants (0 to 11 months old) received OPV3 (Third Dose)
+Number of Infants (upto 48 hrs of age) received Hepatitis-B0 immunisation
+Number of Infants (0 to 11 months old) received Hepatitis-B1 immunisation
+Number of Infants (0 to 11 months old) received Hepatitis-B2 immunisation
+Number of Infants (0 to 11 months old) received Hepatitis-B3 immunisation
+Number of Infants (0 to 11 months old) received Measles immunisation (First Dose)
+Number of Infants (more than 16 months old) received Measles immunisation (Second Dose)
+No. of Children aged 9 to 12 months who received JE 1st dose
+No. of Children aged 9 to 12 months who received JE 1st dose
+Total number of male children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month
+Number of Infants (more than 16 months old) received DPT Booster dose
+Number of Infants (more than 16 months old) received OPV Booster dose
+Number of Infants (more than 16 months old) received Measles, Mumps, Rubella (MMR) Vaccination
+Total number of male children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month
+Total number of female children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month
+Total number of children (12 to 23 months old) fully immunised (BCG+DPT123+OPV123/Pentavalent123+Measles) during the month (sum of items 10.3.1.a and 10.3.1.b)
+Number of children (more than 5 years old) given DT5
+Number of children (more than 10 years old) given TT10
+Number of children (more than 16 years old) given TT16
+===============================================================
+M13 [Blindness Control Programme]
+
+Dependent variables:
+Number of children provided free glasses
+Number of eyes utilised for corneal transplant
+---------------------------------------------------------------
+Control vriables:
+Number of Patients operated for cataract
+Number of Intraocular Lens(IOL) implantations
+Number of School children detected with Refractive errors
+Number of eyes collected through eye donation

@@ -1,0 +1,265 @@
+
+M1 [Ante Natal Care Services ANC]
+
+
+Number of pregnant women received 3 ANC check ups during pregnancy
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+,Independent_Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,-0.11227201075160213,-0.2820293854304092,0.05748536392720492,0.19488713555527604
+1,Transportation,3,0.011252188899758986,-0.17432469368077155,0.19682907148028952,0.9054024240564892
+2,Nature,2,0.07098962736641326,-0.14132454610580356,0.28330380083863005,0.5122514724524091
+3,Nature,3,-0.0985710842717721,-0.3427173674420313,0.14557519889848708,0.4287622069357967
+4,Poverty,2,0.12245387236050022,0.020508798884560808,0.22439894583643963,0.018559638626266712
+5,Poverty,3,-0.01917172905605624,-0.1333223748521684,0.09497891674005592,0.742021036796003
+
+Number of pregnant women given TT1 during current pregnancy
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,-0.04866994415232154,-0.23678830250536878,0.1394484142007257,0.6120976412095971
+1,Transportation,3,0.02889601976171266,-0.1629441442721296,0.22073618379555493,0.7678254074168591
+2,Nature,2,0.05322801408159028,-0.12551651464331287,0.23197254280649343,0.5594530033051757
+3,Nature,3,-0.0062929956327894,-0.2445566297048479,0.2319706384392691,0.9587148479232249
+4,Poverty,2,0.12500280568630778,0.06602663591467255,0.183978975457943,3.263745083245176e-05
+5,Poverty,3,0.07551266165156906,0.007371829339173269,0.14365349396396485,0.02985543109073536
+
+Number of pregnant women given TT2 or Booster during current pregnancy
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.13773744768580914,-0.13926824051037684,0.41474313588199513,0.3297753864350099
+1,Transportation,3,-0.3868960844606837,-0.8103607540866029,0.03656858516523548,0.07333985448082996
+2,Nature,2,-0.008314835919266073,-0.2951507159971047,0.27852104415857254,0.9546920139378398
+3,Nature,3,0.31303999146569206,-0.6211987193748941,1.2472787023062781,0.5113514291790365
+4,Poverty,2,-0.3007505834289137,-0.6582832396099842,0.056782072752156854,0.09921127629029024
+5,Poverty,3,0.11152925986602474,-0.3240186407886393,0.5470771605206888,0.6157510427348045
+
+Total number of pregnant women given 100 IFA tablets
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,-0.18154497628809535,-0.4995581898980239,0.13646823732183322,0.2631873238566844
+1,Transportation,3,-0.14920020699362208,-0.6594154440673776,0.3610150300801335,0.5665468918353933
+2,Nature,2,0.032812889774691656,-0.6246514588210572,0.6902772383704405,0.9220765307265298
+3,Nature,3,-0.31210147930202314,-0.5927911450498244,-0.03141181355422179,0.02930921192342942
+4,Poverty,2,-0.17588438872829956,-0.4635977578396909,0.11182898038309178,0.23085417007155828
+5,Poverty,3,-0.43142428817769396,-0.7176466439994018,-0.14520193235598616,0.0031341695468922385
+
+Number of Eclampsia cases managed during delivery
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,0.0,0.0,
+1,Transportation,3,0.0,0.0,0.0,
+2,Nature,2,0.0,0.0,0.0,
+3,Nature,3,0.0,0.0,0.0,
+4,Poverty,2,0.0,0.0,0.0,
+5,Poverty,3,0.0,0.0,0.0,
+
+Number of Pregnant women having severe anaemia (Hb<7) treated at institution
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,-0.07801304034774119,-1.4750313891671127,1.3190053084716302,0.9128460936389418
+1,Transportation,3,0.5797933678070172,-2.026742885569628,3.1863296211836625,0.6628577975098937
+2,Nature,2,0.006366351807831738,-3.5991084939326683,3.6118411975483316,0.9972386881930457
+3,Nature,3,0.05867917731450417,-1.1212152913943831,1.2385736460233914,0.9223499534701766
+4,Poverty,2,0.8675008358502783,-0.8624434574382489,2.5974451291388054,0.325682792635713
+5,Poverty,3,0.6406173949634142,-1.1708159077870062,2.4520506977138345,0.48821818388536486
+
+M2 [Deliveries]
+
+
+Number of mothers paid JSY incentive for deliveries conducted at home
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,0.0,0.0,
+1,Transportation,3,0.0,0.0,0.0,
+2,Nature,2,0.0,0.0,0.0,
+3,Nature,3,0.0,0.0,0.0,
+4,Poverty,2,0.0,0.0,0.0,
+5,Poverty,3,0.0,0.0,0.0,
+
+Out of 2.2, Number discharged under 48 hours of delivery
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,1.071021738667742,-0.26125260336792655,2.4032960807034107,0.11511237674460094
+1,Transportation,3,1.2344491169474685,-0.2840112326661208,2.752909466561058,0.11107623084190713
+2,Nature,2,-2.422745947270272,-3.908599902354804,-0.9368919921857399,0.001394428457847484
+3,Nature,3,-2.0510006456262206,-3.896295101334994,-0.20570618991744705,0.02937232149415685
+4,Poverty,2,-0.06060426584802306,-2.40124414019558,2.2800356084995337,0.9595265364530315
+5,Poverty,3,-0.26796976917775306,-2.8139949614381137,2.2780554230826078,0.8365669787887164
+
+Number of mothers paid JSY Incentive for deliveries conducted at Public Institutions
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,1.4250709104802937,0.3189802285742509,2.5311615923863364,0.011563618891324751
+1,Transportation,3,2.5754379671256835,0.8902530683143053,4.260622865937062,0.002741049867641318
+2,Nature,2,-3.2369236459598367,-5.358637387615968,-1.1152099043037054,0.0027883556554521203
+3,Nature,3,-2.5506282526336514,-4.647573390253462,-0.45368311501384095,0.017125107372545405
+4,Poverty,2,0.3408319629552221,-2.55358138924021,3.235245315150654,0.8174734638626241
+5,Poverty,3,0.13802718004517445,-2.2733446803412196,2.5493990404315685,0.910673911166038
+
+Number of ASHAs paid JSY Incentive for deliveries conducted at Public Institutions
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,1.8331823576620678,0.18426790298701468,3.482096812337121,0.02933226285091267
+1,Transportation,3,1.2226713634479407,0.004597047126499332,2.440745679769382,0.04914161356899743
+2,Nature,2,-2.1474119701819054,-4.841491552897379,0.5466676125335685,0.11822698242363837
+3,Nature,3,-1.3794563652869667,-4.0621205800426115,1.303207849468678,0.3135333393489701
+4,Poverty,2,-0.9725741987117433,-4.05221117352456,2.1070627761010736,0.535934517225013
+5,Poverty,3,-0.4665806694286161,-3.767679755570423,2.8345184167131907,0.7817622278867428
+
+Number of cases of deliveries conducted at Public Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)]
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,0.0,0.0,
+1,Transportation,3,0.0,0.0,0.0,
+2,Nature,2,0.0,0.0,0.0,
+3,Nature,3,0.0,0.0,0.0,
+4,Poverty,2,0.0,0.0,0.0,
+5,Poverty,3,0.0,0.0,0.0,
+
+M4 [Pregnancy outcome & weight of new-born]
+
+
+Total number of male and female live births (4.1.1.a and 4.1.1.b)
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,5.48172618408671e-16,-2.3307801865211762e-15,3.4271254233385183e-15,0.7090064716337597
+1,Transportation,3,4.440892098500626e-16,-1.993042085761717e-15,2.8812205054618424e-15,0.7209864520412268
+2,Nature,2,-9.159339953157541e-16,-5.82207129161817e-15,3.990203300986662e-15,0.7144333072257161
+3,Nature,3,-8.049116928532385e-16,-4.411064781112397e-15,2.8012413954059197e-15,0.6617676856568007
+4,Poverty,2,-2.636779683484747e-16,-1.7528056851497368e-15,1.2254497484527875e-15,0.728554993145788
+5,Poverty,3,-4.996003610813204e-16,-2.7201179998278067e-15,1.7209172776651658e-15,0.6592291564207358
+
+Number of still births
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.9013493046039502,-1.419741268944886,3.2224398781527865,0.44658958539074856
+1,Transportation,3,1.4928865428683737,-2.290155329274272,5.27592841501102,0.43925452601363646
+2,Nature,2,0.3156646171394617,-2.45309272912767,3.0844219634065935,0.8231817937063735
+3,Nature,3,-1.0198249533420227,-6.69172838755824,4.652078480874194,0.724532827572891
+4,Poverty,2,1.5291728605071684,-0.19209031432981738,3.250436035344154,0.08164238961637366
+5,Poverty,3,-0.09356004585438149,-2.2910506809786417,2.1039305892698783,0.9334960026956656
+
+M5 [Complicated pregnanices]
+
+
+Number of cases of complicated pregnancies treated with IV antibiotics
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.6858248657484867,-0.8742506779669292,2.2459004094639026,0.38889675096418963
+1,Transportation,3,-0.020234193577804926,-0.0619431515775221,0.02147476442191225,0.3416887072287411
+2,Nature,2,-0.05627065980501314,-0.20503237295918833,0.09249105334916205,0.45846507353065036
+3,Nature,3,0.8694911900116532,-0.997030195726342,2.7360125757496485,0.36123200553494306
+4,Poverty,2,0.0562706598050123,-0.09249105334916205,0.20503237295918667,0.45846507353065447
+5,Poverty,3,0.9257618498166663,-1.020087465152089,2.8716111647854214,0.35109002720867155
+
+Number of cases of complicated pregnancies treated with IV Antihypertensive/Magsulph injection
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.1483563902416777,-0.17403293134370887,0.47074571182706426,0.3670930964933481
+1,Transportation,3,0.18782740134241702,-0.19934321475666758,0.5749980174415016,0.3416887072287401
+2,Nature,2,0.14892201090359602,-0.17548565075537892,0.47332967256257097,0.36825989731147724
+3,Nature,3,0.17533634257228656,-0.18988631381158302,0.5405589989561561,0.34673517221774264
+4,Poverty,2,-0.14892201090359647,-0.47332967256257186,0.17548565075537892,0.36825989731147624
+5,Poverty,3,0.026414331668691032,-0.037067585473082656,0.08989624881046472,0.4147714253070992
+
+Number of cases of complicated pregnancies treated with IV Oxytocis
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.7079281420632748,-1.250902576990877,2.666758861117427,0.47873556564730724
+1,Transportation,3,-0.20201236959714974,-0.6184226113274207,0.21439787213312128,0.34168870722874034
+2,Nature,2,-0.20989333455454698,-0.6788395503928062,0.2590528812837123,0.3803505063555279
+3,Nature,3,0.9095293009450767,-1.448201057509446,3.267259659399599,0.44959820559213537
+4,Poverty,2,0.20989333455454628,-0.25905288128371284,0.6788395503928054,0.38035050635552947
+5,Poverty,3,1.1194226354996233,-1.2872811694324722,3.5261264404317187,0.36196250488865267
+
+M9 [Family Planning]
+
+
+Number of cases of complications following male sterilization
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,,,
+1,Transportation,3,0.0,,,
+2,Nature,2,0.0,,,
+3,Nature,3,0.0,,,
+4,Poverty,2,0.0,,,
+5,Poverty,3,0.0,,,
+
+Number of cases of complications following female sterilization
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,,,
+1,Transportation,3,0.0,,,
+2,Nature,2,0.0,,,
+3,Nature,3,0.0,,,
+4,Poverty,2,0.0,,,
+5,Poverty,3,0.0,,,
+
+Number of failures following male sterilization
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,,,
+1,Transportation,3,0.0,,,
+2,Nature,2,0.0,,,
+3,Nature,3,0.0,,,
+4,Poverty,2,0.0,,,
+5,Poverty,3,0.0,,,
+
+Number of failures following female sterilization
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,,,
+1,Transportation,3,0.0,,,
+2,Nature,2,0.0,,,
+3,Nature,3,0.0,,,
+4,Poverty,2,0.0,,,
+5,Poverty,3,0.0,,,
+
+Number of deaths following male sterilization
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,,,
+1,Transportation,3,0.0,,,
+2,Nature,2,0.0,,,
+3,Nature,3,0.0,,,
+4,Poverty,2,0.0,,,
+5,Poverty,3,0.0,,,
+
+Number of deaths following female sterilization
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,,,
+1,Transportation,3,0.0,,,
+2,Nature,2,0.0,,,
+3,Nature,3,0.0,,,
+4,Poverty,2,0.0,,,
+5,Poverty,3,0.0,,,
+
+M10 [CHILD IMMUNIZATION]
+
+
+Number of cases of Abscess reported following immunisation [Adverse Event Following Immunisation (AEFI)]
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,,,
+1,Transportation,3,0.0,,,
+2,Nature,2,0.0,,,
+3,Nature,3,0.0,,,
+4,Poverty,2,0.0,,,
+5,Poverty,3,0.0,,,
+
+Number of cases of Death reported following immunisation [Adverse Event Following Immunisation (AEFI)]
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,,,
+1,Transportation,3,0.0,,,
+2,Nature,2,0.0,,,
+3,Nature,3,0.0,,,
+4,Poverty,2,0.0,,,
+5,Poverty,3,0.0,,,
+
+Number of cases of other complications reported following immunisation [Adverse Event Following Immunisation (AEFI)]
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,,,
+1,Transportation,3,0.0,,,
+2,Nature,2,0.0,,,
+3,Nature,3,0.0,,,
+4,Poverty,2,0.0,,,
+5,Poverty,3,0.0,,,
+
+M13 [Blindness Control Programme]
+
+
+Number of children provided free glasses
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.9629937044596921,-1.20836124734279,3.1343486562621745,0.38471476497013957
+1,Transportation,3,-0.062332563277802414,-0.32279534396983167,0.19813021741422687,0.6390352368488805
+2,Nature,2,0.033585504111082326,-0.19624635744772154,0.26341736566988616,0.7745633334661399
+3,Nature,3,1.5522296803616802,-1.7112476551093156,4.815707015832676,0.3512172324833984
+4,Poverty,2,-0.1361144173195477,-0.5613206431266098,0.2890918084875144,0.5303894084498616
+5,Poverty,3,1.482402423705746,-1.6115462544177057,4.576351101829198,0.3476913251888887
+
+Number of eyes utilised for corneal transplant
+Serial No.,Independent Variable,Tertile,Prevalence_Difference,CI_Lower,CI_Upper,P_Value
+0,Transportation,2,0.0,0.0,0.0,
+1,Transportation,3,0.0,0.0,0.0,
+2,Nature,2,0.0,0.0,0.0,
+3,Nature,3,0.0,0.0,0.0,
+4,Poverty,2,0.0,0.0,0.0,
+5,Poverty,3,0.0,0.0,0.0,
